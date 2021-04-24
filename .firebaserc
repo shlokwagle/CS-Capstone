@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "international-baller-corp": {
+      "hosting": {
+        "shopping-cart": [
+          "international-baller-corp"
+        ]
+      }
+    }
+  }
+}

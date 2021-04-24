@@ -118,6 +118,10 @@
               "devServerTarget": "shopping-cart:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }

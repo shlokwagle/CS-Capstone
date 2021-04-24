@@ -1,0 +1,80 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike Air Max 97",
+      "description": "The Nike Air Max 97 keeps a sneaker icon going strong with the same design details that made it famous: water-ripple lines, reflective piping and full-length Max Air cushioning.",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/b6583f2b-e9e8-4189-a9b9-bdbd20e9fd3a/air-max-97-mens-shoe-qJpQkh.jpg",
+      "price": 170
+    },
+    {
+      "id": 2,
+      "name": "Nike Air VaporMax Plus",
+      "description": "The Nike Air VaporMax Plus looks to the past and propels you into the future. A color update refreshes this icon as it nods to the '98 Air Max Plus with its floating cage, padded upper and heel logo, and revolutionary VaporMax Air technology to ramp up the comfort.",
+      "imageUrl": "https://stockx-360.imgix.net/Nike-Air-VaporMax-Plus-Triple-Black/Images/Nike-Air-VaporMax-Plus-Triple-Black/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1607005366",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Nike Revolution 5",
+      "description": "The Nike Revolution 5 cushions your stride with soft foam to keep you running in comfort. Lightweight knit material wraps your foot in breathable support, while a minimalist design fits in anywhere your day takes you",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/i1-aa7929d6-2189-48b4-a136-fdb1358916e0/revolution-5-mens-running-shoe-extra-wide-gDXTSx.png",
+      "price": 65
+    },
+    {
+      "id": 4,
+      "name": "Nike Air VaporMax Flyknit 3",
+      "description": "The Nike Air VaporMax Flyknit 3 Exeter Edition nods to a Nike pioneer's ingenuity and craftsmanship. Jeff Johnson arrived to Exeter, New Hampshire, in 1974 with 1 goal: to help a fledgling shoe company find an edge within a vanishing local manufacturing industry. From here he took a scrappy approach that resulted in collecting excess waste materials from local vendors to create shoes in colors and material combos never before seen. This shoe features 100% excess Flyknit materials in the upper, an unprecedented color pattern with different medial and lateral views, and about 15% Nike Grind in the outsole. They're audacious. They're thoughtful. They're game-changers.",
+      "imageUrl": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/zwdaout4vihohkt7acao/air-vapormax-flyknit-3-womens-shoe-ZHCbvC.png",
+      "price": 220
+    },
+    {
+      "id": 5,
+      "name": "Adidas Superstar",
+      "description": "The adidas Superstar Shoes first stepped onto the basketball hardwood in 1970. It didn't take long for them to make the leap from athletic gear to streetwear staple. These shoes show off the materials, proportions and style that made the original such a legend. They've got a smooth leather upper with sporty 3-Stripes and a heel tab. They're finished off with the world-famous rubber shell toe.\n\n",
+      "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/29d99d71262249438241ab57011b3b10_9366/Superstar_Vegan_Shoes_White_FW2295_01_standard.jpg",
+      "price": 85
+    },
+    {
+      "id": 6,
+      "name": "Adidas Yeezy Boost 350 V2",
+      "description": "Adidas Yeezy is a fashion collaboration between German sportswear company Adidas and American designer, rapper, entrepreneur, politician and personality Kanye West.",
+      "imageUrl": "https://cdn-images.farfetch-contents.com/12/96/03/31/12960331_23445016_600.jpg",
+      "price": 431
+    },
+    {
+      "id": 7,
+      "name": "Air Jordan 1",
+      "description": "The Air Jordan 1 High debuted in 1985 as the first signature sneaker developed by Nike for Michael Jordan. The Peter Moore designed performance basketball sneaker featured a simple Nike Dunk inspired design that incorporated the Nike Swoosh and the Jordan Wings logo and featured Nike Air. The black and red colorway of the Air Jordan 1 High was famously banned by the NBA for not adhering to the dress code. The Air Jordan 1 High was first retroed in 1994 and has seen hundreds of retro releases since.",
+      "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Light-Fusion-Red.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616237739",
+      "price": 70
+    },
+    {
+      "id": 8,
+      "name": "Court Borough Low 2",
+      "description": "Comfort and style come together in the Nike Court Borough Low 2. The structured, supportive fit has a retro basketball design so you can look like an all-star off the court. Made with leather, this shoe has a retro on-court look. The rubber sole has flex grooves to let it bend with your foot.",
+      "imageUrl": "https://images.stockx.com/images/Nike-Court-Borough-Low-2-Black-University-Red-GS.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1614886339",
+      "price": 55
+    }
+  ],
+  "cart": [
+
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
